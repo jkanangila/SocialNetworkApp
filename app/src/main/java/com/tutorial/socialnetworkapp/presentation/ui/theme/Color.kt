@@ -1,4 +1,4 @@
-package com.tutorial.socialnetworkapp.ui.theme
+package com.tutorial.socialnetworkapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
