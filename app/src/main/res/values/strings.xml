@@ -61,4 +61,5 @@
     <string name="input_too_short">The minimum length is %d</string>
     <string name="invalid_password">The password needs to contain at least one uppercase letter and one number</string>
     <string name="profile_picture">Profile picture</string>
+    <string name="post_image">Post image</string>
 </resources>
